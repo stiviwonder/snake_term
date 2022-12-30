@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc -o cule main.c culebrilla.c -lcurses
+./cule
